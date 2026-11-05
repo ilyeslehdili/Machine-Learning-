@@ -1,0 +1,4 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pdf
+data/hotel_bookings_clean.csv
